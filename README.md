@@ -32,7 +32,7 @@ Memory control should be considered if time allows. For example, 100 clients sen
 
 How to use this app: (Windows)
 
-1. Put the application at C:/
+1. Copy and paste the content of the application to C:/RankRec/
 
 2. Go the the directory of the application:
 
